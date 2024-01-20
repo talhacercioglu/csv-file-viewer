@@ -3,6 +3,7 @@
 ## Overview
 This Shiny application provides a user-friendly interface for uploading and viewing the contents of a CSV file. Users can select a CSV file, and the application will display the data in a table format.
 
+Click on the link for the live web application:
 **https://talhacercioglu.shinyapps.io/csv-file-viewer/**
 
 ## Features
@@ -38,7 +39,3 @@ To run this Shiny application locally, follow these steps:
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-```
