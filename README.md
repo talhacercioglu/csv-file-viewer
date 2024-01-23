@@ -36,6 +36,3 @@ To run this Shiny application locally, follow these steps:
 2. Navigate to the "Upload CSV" tab.
 3. Click on the "Choose CSV File" button and select a CSV file.
 4. View the uploaded data in the displayed table.
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
